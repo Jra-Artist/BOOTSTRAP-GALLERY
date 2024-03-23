@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url('PIC.gif'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.icon {
+    display: inline-block;
+    width: 45px; 
+    height: 40px;
+    background-image: url('ICON.jpg'); 
+    background-size: cover;
+    margin-right: 10px; 
+    vertical-align: middle;
+}
+
+h1 {
+    background-color: #8cdbcea4;
+    color: #ffffff; 
+    padding: 10px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.box {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 7px;
+    text-align: center;
+    border: solid white;
+    font-size: 180%;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    opacity: 100%;
+    padding: 1%;  
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url('PIC.gif'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.icon {
+    display: inline-block;
+    width: 45px; 
+    height: 40px;
+    background-image: url('ICON.jpg'); 
+    background-size: cover;
+    margin-right: 10px; 
+    vertical-align: middle;
+}
+
+h1 {
+    background-color: #8cdbcea4;
+    color: #ffffff; 
+    padding: 10px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.box {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 7px;
+    text-align: center;
+    border: solid white;
+    font-size: 180%;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    opacity: 100%;
+    padding: 10px;
+   height: 6cm;
+   margin: auto;
+   width: 50%;
+   
+
+}
+
+/* Column styles */
+.box.num1 {
+    background-image: url('photo1.jpg');
+    background-size: cover;
+  
+}
+
+.box.num2 {
+    background-image: url('art23.jpg');
+    background-size: cover;
+}
+
+.box.num3 {
+    background-image: url('photobooth.jpg');
+    background-size: cover;
+}
+
+.box.num4 {
+    background-image: url('ganda_mo.jpg');
+    background-size: cover;
+}
+
+.box.num5 {
+    background-image: url('Love.jpg');
+    background-size: cover;
+}
+
+.box.num6 {
+    background-image: url('photo2.jpg');
+    background-size: cover;
+}
+
+.box.num7 {
+    background-image: url('bracelet.jpg');
+    background-size: cover;
+}
+
+.box.num8 {
+    background-image: url('panda.jpg');
+    background-size: cover;
+}
+
+.box.num9 {
+    background-image: url('sungit.jpg');
+    background-size: cover;
+}
+
+.box.num10 {
+    background-image: url('friendgala.jpg');
+    background-size: cover;
+}
+
+.box.num11 {
+    background-image: url('superman.jpg');
+    background-size: cover;
+}
+
+.box.num12 {
+    background-image: url('Rider.jpg');
+    background-size: cover;
+}
